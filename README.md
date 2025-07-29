@@ -27,22 +27,7 @@ This repository contains personal and community-contributed solutions for the **
 
 ---
 
-## 🧑‍💻 Contribution Guidelines
-### Steps to Contribute:
-1. **Fork** the repository.
-2. **Clone** your fork locally.
-3. Inside `src/`, create a folder named `YourUsername (Language)`.
-4. Add your solutions organized by topic.
-5. Ensure:
-   - Your code is clean and well-commented.
-   - You do **not** modify or overwrite other contributors’ code.
-6. **Commit** and **push** your changes.
-7. Submit a **Pull Request (PR)** with a clear description of your additions.
-EXAMPLE: `src/Voidologist (Java)/`
-
----
-
-## 📚 Resources
+## 📚 Resources (All thanks to...)
 
 - 🔗 **A2Z DSA Sheet**:  
   [Striver’s A2Z Sheet on takeUforward.org](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
