@@ -9,13 +9,13 @@ Examples:
 Input: n = 153
 Output: true
 Explanation: Number of digits : 3.
-13 + 53 + 33 = 1 + 125 + 27 = 153.
+1³ + 5³ + 3³ = 1 + 125 + 27 = 153.
 Therefore, it is an Armstrong number.
 
 Input: n = 12
 Output: false
 Explanation: Number of digits : 2.
-12 + 22 = 1 + 4 = 5.
+1² + 2² = 1 + 4 = 5.
 Therefore, it is not an Armstrong number.
 */
 
