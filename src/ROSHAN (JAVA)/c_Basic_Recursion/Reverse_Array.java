@@ -22,20 +22,31 @@ public class Reverse_Array {
     int i=0;
     
     public static void main(String[] args) {
+        //1st method
         int[] arr1 = {1, 2, 3, 4, 5};
         int[] arr2 = {1, 2, 1, 1, 5, 1};
         reverse(arr1, arr1.length);
         reverse(arr2, arr2.length);
-        System.out.println(Arrays.toString(arr1));
-        System.out.println(Arrays.toString(arr2));
+        for(int x:arr1){
+            System.out.print(x+" ");
+        }
+        //OR        
+        System.out.println("\n"+Arrays.toString(arr2));
+
+        
         /* 
+        //2nd method
         reverse(arr1, 0, arr1.length);
         reverse(arr2, 0, arr2.length);
-        System.out.println(Arrays.toString(arr1));
-        System.out.println(Arrays.toString(arr2));
+        for(int x:arr1){
+            System.out.print(x+" ");
+        }
+        //OR        
+        System.out.println("\n"+Arrays.toString(arr2));
         */
     }
     
+    //1st method
     public static void reverse(int[] arr, int n) {
         int i = arr.length - n;
 
@@ -49,7 +60,8 @@ public class Reverse_Array {
         reverse(arr, n - 1);
     }
     
-    /*
+    /*  
+    //2nd method
     public static void reverse(int[] arr, int left, int right) {
         if (left >= right-1) return;
 
