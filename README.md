@@ -38,5 +38,3 @@ This repository contains personal and community-contributed solutions for the **
 <br>
 
 ### Happy Coding!
-
-Feel free to learn, contribute, and share.
