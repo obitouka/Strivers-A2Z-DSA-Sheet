@@ -13,7 +13,7 @@ Output: [1, 1, 4, 4, 5]
 
 
 /* 
-SELECTION SORT (Think: “Pick the smallest, put it in place”):
+SELECTION SORT (Think: “Pick the smallest, put it in place”): 
 
 * Start from the beginning of the list.
 * Find the smallest number in the remaining unsorted part.
