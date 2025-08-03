@@ -11,6 +11,21 @@ Input: nums = [5, 4, 4, 1, 1]
 Output: [1, 1, 4, 4, 5]
 */
 
+
+/* 
+SELECTION SORT (Think: “Pick the smallest, put it in place”):
+
+* Start from the beginning of the list.
+* Find the smallest number in the remaining unsorted part.
+* Swap it with the current position.
+* Move to the next position and repeat the process.
+* Continue until the entire list is sorted.
+
+Goal: Place the smallest numbers at the front one by one.
+*/
+
+
+//CODE:
 package StriverDSA.B_Sorting_Techniques.a_sorting;
 
 public class Selection_Sort {

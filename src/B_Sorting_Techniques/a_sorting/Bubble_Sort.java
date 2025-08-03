@@ -16,6 +16,20 @@ Thus the array is sorted in non-decreasing order.
 */
 
 
+/* 
+BUBBLE SORT (Think: “Big bubbles float to the top”):
+
+* Compare two side-by-side numbers.
+* If left one is bigger, swap them.
+* Repeat this for the whole list.
+* After 1 round, the biggest number is at the end.
+* Do the same again for the rest, skipping the last sorted ones.
+* Keep repeating until everything is sorted.
+
+Goal: Push the biggest numbers to the end one by one.
+*/
+
+
 //CODE
 package StriverDSA.B_Sorting_Techniques.a_sorting;
 

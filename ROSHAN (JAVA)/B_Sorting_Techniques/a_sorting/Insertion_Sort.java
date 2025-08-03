@@ -13,6 +13,19 @@ Output: [1, 1, 4, 4, 5]
 */
 
 
+/* 
+INSERTION SORT (Think: “Like sorting cards in hand”):
+
+* Start from the second number (index 1).
+* Compare it with the numbers before it.
+* Shift larger numbers to the right to make space.
+* Insert the current number in its correct sorted position.
+* Repeat for each number until the list is sorted.
+
+Goal: Build a sorted list by inserting one element at a time.
+*/
+
+
 //CODE:
 package StriverDSA.B_Sorting_Techniques.a_sorting;
 
