@@ -1,4 +1,4 @@
-# 🚀 Striver's A2Z DSA Sheet – Practice & Solutions
+# Striver's A2Z DSA Sheet – Practice & Solutions
 ![Java](https://img.shields.io/badge/Language-Java-9300FF?style=plastic)
 ![DSA](https://img.shields.io/badge/Topic-DSA-D3FF00?style=plastic)
 ![Striver A2Z Sheet](https://img.shields.io/badge/Sheet-Striver%20A2Z-00FFFA?style=plastic)
@@ -8,7 +8,7 @@ This repository contains personal and community-contributed solutions for the **
 
 ---
 
-## ✅ Topics Covered
+## Topics Covered
 
 - Learn Basics
 - Arrays
@@ -27,16 +27,14 @@ This repository contains personal and community-contributed solutions for the **
 
 ---
 
-## 📚 Resources (All thanks to...)
+## Resources (All thanks to...)
 
-- 🔗 **A2Z DSA Sheet**:  
+-  **A2Z DSA Sheet**:  
   [Striver’s A2Z Sheet on takeUforward.org](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
-- 🎥 **YouTube**:  
+-  **YouTube**:  
   [Striver's YouTube Channel](https://www.youtube.com/@takeUforward)
 
 <br>
 
-### 🙌 Happy Coding!
-
-Feel free to learn, contribute, and share.
+### Happy Coding!
