@@ -8,25 +8,6 @@ This repository contains personal and community-contributed solutions for the **
 
 ---
 
-## Topics Covered
-
-- Learn Basics
-- Arrays
-- Searching & Sorting
-- Hashing
-- Linked Lists
-- Stack & Queue
-- Binary Trees
-- Binary Search Trees
-- Graphs
-- Dynamic Programming
-- Tries
-- Greedy
-- Backtracking
-- and more...
-
----
-
 ## Resources (All thanks to...)
 
 -  **A2Z DSA Sheet**:  
