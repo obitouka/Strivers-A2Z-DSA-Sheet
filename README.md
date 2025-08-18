@@ -4,7 +4,7 @@
 ![Striver A2Z Sheet](https://img.shields.io/badge/Sheet-Striver%20A2Z-00FFFA?style=plastic)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-ff0004?style=plastic)
 
-This repository contains personal and community-contributed solutions for the **[Striver’s A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**. The goal is to help others learn and refer to multiple implementations for each DSA concept using clean code.
+This repository contains personal solutions for the **[Striver’s A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**. The goal is to help others learn and refer to multiple implementations for each DSA concept.
 
 ---
 
