@@ -13,7 +13,7 @@ Output: 2
 */
 
 //CODE: 
-package striverdsa.basics.maths;
+package basics.maths;
 
 public class CountDigits {
     public static void main(String[] args) {

@@ -14,7 +14,7 @@ Output: false
 */
 
 //CODE: 
-package striverdsa.basics.maths;
+package basics.maths;
 
 public class PalindromeNum {
     public static void main(String[] args) {
@@ -33,9 +33,7 @@ public class PalindromeNum {
             n/=10;
         }
 
-        if(temp==rev)
-            return true;
-        else return false;
+        return temp == rev;
     }
 }
 

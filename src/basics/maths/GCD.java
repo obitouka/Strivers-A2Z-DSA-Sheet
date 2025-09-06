@@ -18,17 +18,20 @@ Greatest Common divisor = 1.
 */
 
 //CODE: 
-package striverdsa.basics.maths;
+package basics.maths;
 
 public class GCD {
     public static void main(String[] args) {
-        System.out.println(GCD(6,4));
+        System.out.println(calc(6,4));
     }
-    public static int GCD(int n1, int n2) {
+    public static int calc(int n1, int n2) {
+        if (n1 == 0) return n2;
+        if (n2 == 0) return n1;
+
         while (n1 != n2) {
             if(n1 > n2)
                 n1 -= n2;
-            else if(n2 > n1)
+            if(n2 > n1)
                 n2 -= n1;
         }
         return n1;

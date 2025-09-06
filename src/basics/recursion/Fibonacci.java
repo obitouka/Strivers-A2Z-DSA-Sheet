@@ -19,7 +19,7 @@ Explanation : F(3) = F(2) + F(1) => 1 + 1 => 2.
 */
 
 //CODE: 
-package striverdsa.basics.recursion;
+package basics.recursion;
 
 public class Fibonacci {
     public static void main(String[] args) {

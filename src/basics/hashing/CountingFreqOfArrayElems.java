@@ -1,4 +1,4 @@
-package basics.hashing;/*
+/*
 QUESTION:
 Given an array nums of size n which may contain duplicate elements, return a list of pairs where each pair 
 contains a unique element from the array and its frequency in the array.
@@ -20,8 +20,8 @@ Explanation:
 - 5 appears 4 times.
 */
 
+
 //CODE:
-/*
 package basics.hashing;
 import java.util.List;
 public class CountingFreqOfArrayElems {
@@ -34,7 +34,7 @@ public class CountingFreqOfArrayElems {
         // Your code goes here
     //}
 }
-*/
+
 /*
 OUTPUT: 
 

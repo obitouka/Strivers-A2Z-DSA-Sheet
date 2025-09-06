@@ -4,7 +4,7 @@ Print name n times
 */
 
 //CODE: 
-package striverdsa.basics.recursion;
+package basics.recursion;
 
 public class PrintNameNTimes {
     public static void main(String[] args) {

@@ -16,7 +16,7 @@ Explanation: The divisors of 8 are 1, 2, 4, 8.
 */
 
 //CODE: 
-package striverdsa.basics.maths;
+package basics.maths;
 
 public class DivisorsOfANumber {
     public static void main(String[] args) {
@@ -26,6 +26,10 @@ public class DivisorsOfANumber {
 
     public static int[] numOfDivisors(int n) {
         int count = 0;
+
+        for (int i = 1; i <= n; i++) {
+            if (n % i == 0) count++;
+        }
 
         int[] divisors = new int[count];
         int index = 0;

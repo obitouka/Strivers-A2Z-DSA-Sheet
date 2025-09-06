@@ -4,7 +4,7 @@ https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number
 */
 
 //CODE: 
-package striverdsa.basics.recursion;
+package basics.recursion;
 
 public class Factorial {
     public static void main(String[] args) {

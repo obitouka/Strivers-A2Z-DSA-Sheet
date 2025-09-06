@@ -20,7 +20,7 @@ Output:
 */
 
 //CODE: 
-package striverdsa.basics.recursion;
+package basics.recursion;
 
 public class PrintNumsOneToN {
     public static void main(String[] args) {

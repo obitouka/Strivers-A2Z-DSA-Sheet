@@ -20,7 +20,7 @@ Therefore, it is not an Armstrong number.
 */
 
 //CODE: 
-package striverdsa.basics.maths;
+package basics.maths;
 
 public class Armstrong {
     public static void main(String[] args) {
@@ -45,9 +45,7 @@ public class Armstrong {
             n/=10;
         }
 
-        if(sum == orig)
-            return true;
-        else return false;
+        return sum == orig;
     }
 
     public static int CountDig(int n){
