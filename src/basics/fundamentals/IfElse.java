@@ -18,9 +18,8 @@ Output: Fail
 */
 
 //CODE:
-package StriverDSA.A_Learn_Basics.a_Things_to_Know;
-
-public class If_Else {
+package basics.fundamentals;
+public class IfElse {
     public static void main(String[] args) {
         studentGrade(42);
     }

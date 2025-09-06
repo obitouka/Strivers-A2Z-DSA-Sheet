@@ -12,11 +12,10 @@ Output: [1,5,1,1,2,1]
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.c_Basic_Recursion;
-
+package basics.recursion;
 import java.util.Arrays;
 
-public class Reverse_Array {
+public class ReverseArray {
     int i=0;
     
     public static void main(String[] args) {

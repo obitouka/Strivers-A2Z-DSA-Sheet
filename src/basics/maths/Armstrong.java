@@ -20,7 +20,7 @@ Therefore, it is not an Armstrong number.
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.b_Basic_Maths;
+package striverdsa.basics.maths;
 
 public class Armstrong {
     public static void main(String[] args) {

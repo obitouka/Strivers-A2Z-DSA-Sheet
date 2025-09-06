@@ -18,7 +18,7 @@ Greatest Common divisor = 1.
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.b_Basic_Maths;
+package striverdsa.basics.maths;
 
 public class GCD {
     public static void main(String[] args) {

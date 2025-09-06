@@ -16,9 +16,9 @@ Explanation: The divisors of 8 are 1, 2, 4, 8.
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.b_Basic_Maths;
+package striverdsa.basics.maths;
 
-public class Divisors_Of_A_Num {
+public class DivisorsOfANumber {
     public static void main(String[] args) {
         printArray(numOfDivisors(8)); 
         printArray(numOfDivisors(6));

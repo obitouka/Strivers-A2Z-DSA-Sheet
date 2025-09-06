@@ -20,9 +20,9 @@ Output:
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.c_Basic_Recursion;
+package striverdsa.basics.recursion;
 
-public class Print_n_to_1 {
+public class PrintNumsNToOne {
     public static void main(String[] args) {
         printNumbers(5);
     }

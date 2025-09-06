@@ -14,9 +14,9 @@ Output: Invalid
 
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.a_Things_to_Know;
+package basics.fundamentals;
 
-public class Switch_Case {
+public class SwitchCase {
     public static void main(String[] args) {
         whichWeekDay(7);
     }

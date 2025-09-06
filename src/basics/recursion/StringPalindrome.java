@@ -1,4 +1,4 @@
-/* 
+/*
 QUESTION:
 Given a string s, return true if the string is palindrome, otherwise false.
 A string is called palindrome if it reads the same forward and backward.
@@ -14,10 +14,9 @@ Output : false
 Explanation : The string when reversed is --> "aaabbaa", which is not same as original string, So we return false.
 */
 
-//CODE: 
-package StriverDSA.A_Learn_Basics.c_Basic_Recursion;
-
-public class String_Palindrome_Checker {
+//CODE:
+package basics.recursion;
+public class StringPalindrome {
     public static void main(String[] args) {
         System.out.println(palindromeCheck("hannah"));
         System.out.println(palindromeCheck("aabbaaa"));

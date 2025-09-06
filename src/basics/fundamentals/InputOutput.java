@@ -11,10 +11,10 @@ Output: -5
 */
 
 //CODE:
-package StriverDSA.A_Learn_Basics.a_Things_to_Know;
+package basics.fundamentals;
 import java.util.Scanner;
 
-public class Input_Output {
+public class InputOutput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         printNumber(sc);

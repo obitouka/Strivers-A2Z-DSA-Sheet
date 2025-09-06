@@ -19,9 +19,9 @@ Explanation : F(3) = F(2) + F(1) => 1 + 1 => 2.
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.c_Basic_Recursion;
+package striverdsa.basics.recursion;
 
-public class Fibonacci_Num {
+public class Fibonacci {
     public static void main(String[] args) {
         System.out.println(fib(2));
         System.out.println(fib(3));

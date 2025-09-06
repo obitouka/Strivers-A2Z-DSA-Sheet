@@ -1,4 +1,4 @@
-/* 
+/*
 QUESTION:
 Given an integer N, return the sum of first N natural numbers. Try to solve this using recursion.
 
@@ -15,10 +15,9 @@ Explanation : first two natural numbers are 1, 2.
 Sum is 1 + 2 => 3.
 */
 
-//CODE: 
-package StriverDSA.A_Learn_Basics.c_Basic_Recursion;
-
-public class Sum_Of_First_n_Nums {
+//CODE:
+package basics.recursion;
+public class SumOfFirstNaturalNums {
     public static void main(String[] args) {
         System.out.println(NnumbersSum(4));
         System.out.println(NnumbersSum(2));
@@ -34,3 +33,7 @@ OUTPUT:
 10
 3
 */
+
+
+
+

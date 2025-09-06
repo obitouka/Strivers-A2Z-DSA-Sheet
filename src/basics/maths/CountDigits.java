@@ -13,9 +13,9 @@ Output: 2
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.b_Basic_Maths;
+package striverdsa.basics.maths;
 
-public class Count_Digits {
+public class CountDigits {
     public static void main(String[] args) {
         System.out.println(countDigit(5555));
         System.out.println(countDigit(13));

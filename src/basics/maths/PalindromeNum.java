@@ -14,7 +14,7 @@ Output: false
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.b_Basic_Maths;
+package striverdsa.basics.maths;
 
 public class PalindromeNum {
     public static void main(String[] args) {

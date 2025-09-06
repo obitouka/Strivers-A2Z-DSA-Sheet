@@ -1,4 +1,4 @@
-/* 
+/*
 QUESTION:
 Given an array of n integers, find the most frequent element in it i.e., the element that occurs the maximum number of times. 
 If there are multiple elements that appear a maximum number of times, find the smallest of them.
@@ -13,13 +13,12 @@ Output: 4
 Explanation: Both 4 and 5 appear twice, but 4 is smaller. So, 4 is the most frequent element.
 */
 
-//CODE: 
-package StriverDSA.A_Learn_Basics.d_Basic_Hashing;
-
+//CODE:
+package basics.hashing;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Highest_Freq_Elem_In_Array {
+public class HighestFreqElemInArray {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 2, 3, 3, 3};
         int[] arr2 = {4, 4, 5, 5, 5, 6, 4};

@@ -1,4 +1,4 @@
-/* 
+/*
 QUESTION:
 You are given an integer n. Return the integer formed by placing the digits of n in reverse order.
 
@@ -12,9 +12,8 @@ Output: 321
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.b_Basic_Maths;
-
-public class Reverse_Num {
+package basics.maths;
+public class ReverseNum {
     public static void main(String[] args) {
         System.out.println(reverseNumber(123));
     }

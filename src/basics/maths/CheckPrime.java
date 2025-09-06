@@ -16,9 +16,9 @@ Explanation: The divisors of 8 are 1, 2, 4, 8, thus it is not a prime number.
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.b_Basic_Maths;
+package striverdsa.basics.maths;
 
-public class Check_Prime {
+public class CheckPrime {
     public static void main(String[] args) {
         System.out.println(isPrime(5));
         System.out.println(isPrime(8));

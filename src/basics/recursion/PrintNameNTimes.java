@@ -4,9 +4,9 @@ Print name n times
 */
 
 //CODE: 
-package StriverDSA.A_Learn_Basics.c_Basic_Recursion;
+package striverdsa.basics.recursion;
 
-public class Print_Name_n_Times {
+public class PrintNameNTimes {
     public static void main(String[] args) {
         func(5);
     }
