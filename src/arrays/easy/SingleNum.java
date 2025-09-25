@@ -27,16 +27,13 @@ public class SingleNum {
     }
 
     public static int singleNumber(int[] arr) {
+        int singleElem = 0;
+
         for (int i = 0; i < arr.length; i++) {
-            int count = 0;
-            for (int j = 0; j < arr.length; j++) {
-                if (arr[j] == arr[i]) {
-                    count++;
-                }
-            }
-            if (count == 1) return arr[i];
+            singleElem = singleElem ^ arr[i];
         }
-        return -1;
+
+        return singleElem;
     }
 }
 
