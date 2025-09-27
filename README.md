@@ -109,14 +109,9 @@ This repository contains personal solutions for the **[Striver’s A2Z DSA Cours
 
 
 <details>
-<summary>medium</summary>
-  
+<summary>medium</summary> 
 - [TwoSum.java](src/arrays/medium/TwoSum.java)  
 </details>
 
 </details>
 
-
----
-
-### Happy Coding!
