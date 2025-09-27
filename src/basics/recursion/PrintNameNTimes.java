@@ -14,7 +14,7 @@ public class PrintNameNTimes {
     static void func(int last){
         if(last < 1) return;
         System.out.println("Halz3");
-        func(--last);
+        func(last-1);
     }
     
 }
