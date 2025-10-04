@@ -45,7 +45,7 @@ This repository contains personal solutions for the **[Striver’s A2Z DSA Cours
   <details>
   <summary>hashing</summary>
     
-  - [CountingFreqOfArrayElems.java](src/basics/hashing/CountingFreqOfArrayElems.java)  
+  <!---   - [CountingFreqOfArrayElems.java](src/basics/hashing/CountingFreqOfArrayElems.java)  -->
   - [HighestFreqElemInArray.java](src/basics/hashing/HighestFreqElemInArray.java)  
   </details>
 
@@ -72,7 +72,7 @@ This repository contains personal solutions for the **[Striver’s A2Z DSA Cours
   - [MergeSort.java](src/sorting/advanced/MergeSort.java)  
   - [RecursiveBubbleSort.java](src/sorting/advanced/RecursiveBubbleSort.java)  
   - [RecursiveInsertionSort.java](src/sorting/advanced/RecursiveInsertionSort.java)  
-  - [QuickSort.java](src/sorting/advanced/QuickSort.java)  
+  <!---   - [QuickSort.java](src/sorting/advanced/QuickSort.java)  -->
   </details>
 
 </details>
@@ -95,7 +95,7 @@ This repository contains personal solutions for the **[Striver’s A2Z DSA Cours
   - [LeftRotateByDPlaces.java](src/arrays/easy/LeftRotateByDPlaces.java)  
   - [MoveZerosToEnd.java](src/arrays/easy/MoveZerosToEnd.java)  
   - [LinearSearch.java](src/arrays/easy/LinearSearch.java)  
-  - [ArrayUnion.java](src/arrays/easy/ArrayUnion.java)  
+  <!---   - [ArrayUnion.java](src/arrays/easy/ArrayUnion.java)  -->
   - [MissingNum.java](src/arrays/easy/MissingNum.java)  
   - [MaxConsecutiveOnes.java](src/arrays/easy/MaxConsecutiveOnes.java)  
   - [SingleNum.java](src/arrays/easy/SingleNum.java)  
@@ -105,7 +105,7 @@ This repository contains personal solutions for the **[Striver’s A2Z DSA Cours
   
   <details>
   <summary>medium</summary> 
-  - [TwoSum.java](src/arrays/medium/TwoSum.java)  
+  <!---   - [TwoSum.java](src/arrays/medium/TwoSum.java)   -->
   </details>
 
 </details>
