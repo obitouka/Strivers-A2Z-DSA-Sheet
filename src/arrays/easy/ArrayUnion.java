@@ -17,6 +17,8 @@ Output: [1, 3, 4, 5, 6, 7, 8, 9]
 //CODE: 
 package arrays.easy;
 
+import java.util.ArrayList;
+
 public class ArrayUnion {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 3, 4, 5}; int[] arr2 = {1, 2, 7};
@@ -26,8 +28,35 @@ public class ArrayUnion {
         System.out.println(unionArray(arr3, arr4));
     }
 
-    public static int[] unionArray(int[] arr1, int[] arr2) {
-        return arr1;
+    public static ArrayList<Integer> unionArray(int[] arr1, int[] arr2) {
+        ArrayList<Integer > set = new ArrayList<>();
+        int i = 0, j = 0;
+
+        while (i < arr1.length && j < arr2.length) {
+            if (arr1[i] <= arr2[j]){
+                if (set.isEmpty() || set.get(set.size()-1) != arr1[i])
+                    set.add(arr1[i]);
+                i++;
+            }else if(arr2[j] <= arr1[i]){
+                if (set.isEmpty() || set.get(set.size()-1) != arr2[j])
+                    set.add(arr2[j]);
+                j++;
+            }
+        }
+
+        while (i < arr1.length) {
+            if (set.get(set.size()-1) != arr1[i])
+                set.add(arr1[i]);
+            i++;
+        }
+
+        while (j < arr2.length) {
+            if (set.get(set.size()-1) != arr2[j])
+                set.add(arr2[j]);
+            j++;
+        }
+
+        return set;
     }
 }
 

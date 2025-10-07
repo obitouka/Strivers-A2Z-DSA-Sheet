@@ -89,10 +89,10 @@ This repository contains personal solutions for the **[Striver’s A2Z DSA Cours
     
   - [LargestElem.java](src/arrays/easy/LargestElem.java)  
   - [SecondLargestElem.java](src/arrays/easy/SecondLargestElem.java)  
-  - [IsSortedChecker.java](src/arrays/easy/IsSortedChecker.java)  
+  - [IsSortedChecker.java](src/arrays/easy/isSortedChecker.java)  
   - [DuplicateRemoverSorted.java](src/arrays/easy/DuplicateRemoverSorted.java)  
   - [LeftRotateByOne.java](src/arrays/easy/LeftRotateByOne.java)  
-  - [LeftRotateByDPlaces.java](src/arrays/easy/LeftRotateByDPlaces.java)  
+  - [LeftRotateByDPlaces.java](src/arrays/easy/LeftRotateByPlaceD.java)  
   - [MoveZerosToEnd.java](src/arrays/easy/MoveZerosToEnd.java)  
   - [LinearSearch.java](src/arrays/easy/LinearSearch.java)  
   <!---   - [ArrayUnion.java](src/arrays/easy/ArrayUnion.java)  -->
