@@ -95,7 +95,7 @@ This repository contains personal solutions for the **[Striver’s A2Z DSA Cours
   - [LeftRotateByDPlaces.java](src/arrays/easy/LeftRotateByPlaceD.java)  
   - [MoveZerosToEnd.java](src/arrays/easy/MoveZerosToEnd.java)  
   - [LinearSearch.java](src/arrays/easy/LinearSearch.java)  
-  <!---   - [ArrayUnion.java](src/arrays/easy/ArrayUnion.java)  -->
+  - [ArrayUnion.java](src/arrays/easy/ArrayUnion.java)
   - [MissingNum.java](src/arrays/easy/MissingNum.java)  
   - [MaxConsecutiveOnes.java](src/arrays/easy/MaxConsecutiveOnes.java)  
   - [SingleNum.java](src/arrays/easy/SingleNum.java)  

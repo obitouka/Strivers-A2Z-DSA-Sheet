@@ -1,5 +1,3 @@
 basics.hashing; CountingFreqOfArrayElems
 
 sorting.advanced; QuickSort
-
-arrays.easy; ArrayUnion
