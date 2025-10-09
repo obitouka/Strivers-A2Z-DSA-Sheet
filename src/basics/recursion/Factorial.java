@@ -1,6 +1,15 @@
 /* 
 QUESTION:
-https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number
+Write a recursive program to compute the factorial of a given number n.
+
+Examples:
+Input : n = 4
+Output : 24
+Explanation : 4! = 4 × 3 × 2 × 1 = 24
+
+Input : n = 6
+Output : 720
+Explanation : 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720
 */
 
 //CODE: 
@@ -21,5 +30,6 @@ public class Factorial {
 
 /*
 OUTPUT: 
-
+120
+6
 */
